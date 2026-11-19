@@ -1,8 +1,8 @@
 {
- "key": "3b85b552",
+ "key": "36a67c9",
  "stars": 0,
- "contributions": 30,
- "repos": 3,
+ "contributions": 33,
+ "repos": 4,
  "followers": 0,
  "languages": [
   [
@@ -12,6 +12,10 @@
   [
    "CSS",
    13807
+  ],
+  [
+   "Python",
+   1220
   ]
  ],
  "days": [
@@ -111,7 +115,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 19,
     "today": true
    },
@@ -120,11 +124,20 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 3
  },
  "pins": [],
  "all": [
+  {
+   "name": "PythonKalkulator-skole-oppgave",
+   "url": "https://github.com/zmtkk/PythonKalkulator-skole-oppgave",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
   {
    "name": "zmtkk",
    "url": "https://github.com/zmtkk/zmtkk",
